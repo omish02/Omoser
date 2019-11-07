@@ -1,3 +1,4 @@
+#HUNGARIAN CODE IN PYTHON
 import numpy as np
 array=np.array([[80,40,50,46],[40,70,20,25],[30,10,20,30],[35,20,25,30]])
 redArr=array.copy()
